@@ -1,0 +1,17 @@
+{ "users" :
+    [
+        {
+            "login":"pierre",
+            "password":"abcd"
+        },
+        {
+            "login":"paul",
+            "password":"1234"
+        },
+  
+        {
+            "login":"jacques",
+            "password":"azerty"
+        }
+    ]
+} 

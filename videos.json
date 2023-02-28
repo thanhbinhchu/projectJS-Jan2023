@@ -1,0 +1,19 @@
+
+    [
+        {
+            "id": 1,
+            "src":"./videos/DXM_INT_BA.mp4",
+            "title":"Ma vidéo 1"
+        },
+        {
+            "id": 2,
+            "src":"./videos/DXM_ITM_THIAIS_RAYON.mp4",
+            "title":"Ma vidéo 2"
+        },
+        {
+            "id": 3,
+            "src":"./videos/DXM_SOLDES_INT.mp4",
+            "title":"Ma vidéo 3"
+        }
+    ]
+
